@@ -1,0 +1,5 @@
+streamlit
+esm
+py3Dmol
+python-dotenv
+pandas
